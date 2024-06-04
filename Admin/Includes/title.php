@@ -1,0 +1,1 @@
+  <title>EventNexus - Dashboard</title>
